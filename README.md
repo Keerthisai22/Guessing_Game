@@ -32,4 +32,4 @@ Congratulations! You guessed it correctly 🎉
 - random.randint()
 
 ## Author
-Keerthisai
+Keerthisai A S
